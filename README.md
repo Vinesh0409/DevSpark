@@ -1,5 +1,5 @@
 **DevSpark** is a modern, responsive, and visually appealing web template designed for developers, startups, and creative agencies.  
-It’s built with clean HTML, CSS, and JavaScript, following best practices for performance and maintainability.
+It’s built with clean HTML and CSS, following best practices for performance and maintainability.
 
 ---
 
